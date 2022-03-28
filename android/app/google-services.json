@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475155028804",
+    "project_id": "travel-guide-4e12a",
+    "storage_bucket": "travel-guide-4e12a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475155028804:android:7d4d47d4c89931ccac5511",
+        "android_client_info": {
+          "package_name": "com.mehedi.travel_guaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475155028804-ok3kkmj66sj1s4nigs47crv72hupmkl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehedi.travel_guaid",
+            "certificate_hash": "0849a68194603adcaddb2e1e7aea4adecbbad663"
+          }
+        },
+        {
+          "client_id": "475155028804-0a9c1gjdokj8mknnbrpdeqiir9nhe4j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsqELI2kdi7Ob9mMYBatsxL5OaiHqaFRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475155028804-0a9c1gjdokj8mknnbrpdeqiir9nhe4j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
